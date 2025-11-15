@@ -6,7 +6,7 @@ A tiny collection of good blogs
 - [Max Slater](https://thenumb.at/) Computer Graphics, Programming, and Math
 - [Words and Buttons Online](https://wordsandbuttons.online/)
 
-### delta
+### \Delta \Sigma \sqrt
 
 - [hi](https://hi.com) example
 
