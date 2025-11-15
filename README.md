@@ -8,6 +8,6 @@ A tiny collection of good blogs
 
 ### Delta
 
-- [Declan Murphy](https://flightclub.io) Lauunch Trajectories
+- [Declan Murphy](https://flightclub.io) Launch Trajectories
 
 
