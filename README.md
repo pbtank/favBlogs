@@ -26,6 +26,14 @@ A tiny collection of good resources
 - [NSF Fluid Mechanics Series](https://www.youtube.com/playlist?list=PL0EC6527BE871ABA3)
 - [BBC old mfg videos](https://www.youtube.com/@oldeducationvideos5009/videos)
 - [Dave Benson's DX7 Page](https://web.archive.org/web/20110908054937/https://www.abdn.ac.uk/~mth192/html/dx7.html)
+- [Lenia - Artificial Life from Algorithms](https://youtu.be/6kiBYjvyojQ?si=p0idc8Aa9aUnSbyZ)
+- [Richard Nakka's Experimental Rocketry Web Site](https://www.nakka-rocketry.net/)
+- [Sam's Laser FAQ](https://www.repairfaq.org/sam/lasersam.htm)
+- [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
+- [Purdue AAE Propulsion Website](https://engineering.purdue.edu/~propulsi/propulsion/)
+- [Falstad online circuit simulator](https://www.falstad.com/circuit/)
+- [AMSAT Live OSCAR Satellite Status Page](https://www.amsat.org/status/)
+- [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html) and [HyperMath](http://hyperphysics.phy-astr.gsu.edu/hbase/hmat.html#hmath)
 
 ### Delta
 
