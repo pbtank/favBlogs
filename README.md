@@ -1,4 +1,4 @@
-# favBlogs
+# Best Blogs
 A tiny collection of good blogs
 
 ### Computer Science
