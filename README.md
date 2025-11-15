@@ -8,6 +8,6 @@ A tiny collection of good blogs
 
 ### Delta
 
-- [hi](https://hi.com) example
+- [Declan Murphy](https://flightclub.io) Lauunch Trajectories
 
 
