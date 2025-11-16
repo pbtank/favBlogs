@@ -34,6 +34,7 @@ A tiny collection of good resources
 - [Falstad online circuit simulator](https://www.falstad.com/circuit/)
 - [AMSAT Live OSCAR Satellite Status Page](https://www.amsat.org/status/)
 - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html) and [HyperMath](http://hyperphysics.phy-astr.gsu.edu/hbase/hmat.html#hmath)
+- [mitxela](https://mitxela.com/)
 
 ### Delta
 
