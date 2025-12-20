@@ -35,6 +35,7 @@ A tiny collection of good resources
 - [AMSAT Live OSCAR Satellite Status Page](https://www.amsat.org/status/)
 - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html) and [HyperMath](http://hyperphysics.phy-astr.gsu.edu/hbase/hmat.html#hmath)
 - [mitxela](https://mitxela.com/)
+- [Great Ideas in Theoretical Computer Science](https://www.cs251.com/)
 
 ### Delta
 
